@@ -1,16 +1,48 @@
-# React + Vite
+# FUTURE_FS_01
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## Personal Professional Portfolio Website
 
-Currently, two official plugins are available:
+A responsive personal portfolio website built using React.js for the Future Interns Full Stack Web Development Internship — Task 1.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack
 
-## React Compiler
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the Oxlint configuration
+- Professional introduction
+- About section
+- Technical skills
+- Projects showcase
+- Contact section
+- Responsive design
+- GitHub and LinkedIn integration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Projects
+
+### AI-Based IoT Microservice Optimization
+Adaptive resource optimization for dynamic IoT microservice deployment across Edge, Fog, and Cloud infrastructure.
+
+### Smart Queue Management System
+Hospital token management system designed to organize patient queues and improve patient flow.
+
+### Smart Attendance Management System
+Digital attendance system designed to simplify attendance tracking and record management.
+
+## Developer
+
+**Akash K.**
+
+- GitHub: https://github.com/theakashk2006-blip
+- LinkedIn: https://www.linkedin.com/in/akash-k-657914338
+- Email: theakashk2006@gmail.com
+
+## Internship
+
+**Future Interns — Full Stack Web Development**
+
+**Task:** Task 1 — Personal Professional Portfolio Website
