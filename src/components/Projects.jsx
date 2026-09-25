@@ -6,6 +6,7 @@ function Projects() {
       description:
         "An adaptive framework designed to optimize dynamic IoT microservice deployment across Edge, Fog and Cloud infrastructure using AI-based resource optimization.",
       technologies: "AI • IoT • Edge/Fog/Cloud • Microservices",
+      status: "In Progress",
     },
     {
       number: "02",
@@ -13,6 +14,7 @@ function Projects() {
       description:
         "A hospital token management concept designed to organize patient queues and reduce waiting-time related problems.",
       technologies: "Web Development • Backend • Database",
+      status: "Academic Concept",
     },
     {
       number: "03",
@@ -20,6 +22,7 @@ function Projects() {
       description:
         "A digital attendance management system designed to simplify attendance tracking and record management.",
       technologies: "Web Development • Database • Automation",
+      status: "Academic Concept",
     },
   ];
 
@@ -39,6 +42,9 @@ function Projects() {
             <p>{project.description}</p>
 
             <small>{project.technologies}</small>
+            <span className="project-status">
+  {project.status}
+</span>
           </div>
         ))}
       </div>

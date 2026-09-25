@@ -6,13 +6,13 @@ function Contact() {
       <h2>Let's Connect</h2>
 
       <p>
-        Interested in my work or want to connect? Reach me through
-        email or my professional profiles.
+        Have a question, opportunity, or want to connect?
+        Feel free to reach out.
       </p>
 
       <div className="contact-links">
         <a href="mailto:theakashk2006@gmail.com">
-          Email
+          Email Me
         </a>
 
         <a

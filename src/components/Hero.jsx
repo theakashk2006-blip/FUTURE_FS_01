@@ -18,6 +18,12 @@ function Hero() {
           <button>View Projects</button>
         </a>
 
+        <a href="/Akash_Resume.pdf" target="_blank">
+  <button className="secondary-button">
+    View Resume
+  </button>
+</a>
+
         <a
           href="https://github.com/theakashk2006-blip"
           target="_blank"
